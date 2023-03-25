@@ -25,9 +25,9 @@ public class Main {
 
                     if (newgroup1 != newgroup2){
                         if (coins[8] == coins[0]){
-                            System.out.println("a moeda falsa e 9");
+                            System.out.println("a moeda falsa e 10");
                         }else {
-                            System.out.println("a moeda falsa e 8");
+                            System.out.println("a moeda falsa e 9");
                         }
 
                     }
